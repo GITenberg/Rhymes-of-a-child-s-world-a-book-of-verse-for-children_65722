@@ -1,16 +1,21 @@
 _repo: Rhymes-of-a-child-s-world-a-book-of-verse-for-children_65722
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Stevens, Ruth Fuller
     gutenberg_agent_id: '53476'
     url: http://www.gutenberg.org/2009/agents/53476
+covers:
+- cover_type: archival
+  image_path: 65722-h/images/cover.jpg
 creator:
   author:
     agent_name: Potter, Miriam Clark
     gutenberg_agent_id: '53475'
     url: http://www.gutenberg.org/2009/agents/53475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65722#Rhymes-of-a-child-s-world-a-book-of-verse-for-children
 gutenberg_issued: '2021-06-29'
 gutenberg_type: Text
 identifiers:
